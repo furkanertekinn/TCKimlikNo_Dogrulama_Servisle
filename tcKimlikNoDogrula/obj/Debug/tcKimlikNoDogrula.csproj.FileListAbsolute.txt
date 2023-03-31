@@ -1,0 +1,11 @@
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\bin\Debug\tcKimlikNoDogrula.exe.config
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\bin\Debug\tcKimlikNoDogrula.exe
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\bin\Debug\tcKimlikNoDogrula.pdb
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.Form1.resources
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.Properties.Resources.resources
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.exe
+C:\Users\Furkan\source\repos\tcKimlikNoDogrula\tcKimlikNoDogrula\obj\Debug\tcKimlikNoDogrula.pdb
